@@ -1,0 +1,44 @@
+
+.header {
+    background-color:#e3e3e3;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+.header-text{
+	color: black;
+	font-style:  italic;
+}
+.header1 {
+    background-color:#9ad3de;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+.side{
+	line-height:30px;
+    background-color:#B9C8CD;
+    height:829px;
+    width:150px;
+    float:left;
+    padding:5px;
+}
+.font{
+	
+	font-size: large;
+	font-style: italic;
+	
+}
+.section {
+    width:350px;
+    float:left;
+    padding:10px; 
+}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
